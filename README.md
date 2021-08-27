@@ -3,7 +3,9 @@
 ![Author](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-ShawR00t-blue)
 ![Language](https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-Python-brightgreen)
 
-支持对单个文件/文件夹中txt、doc、docx、html类型的文件进行词频统计，并输入结果。
+ - 支持对单个文件/文件夹中txt、doc、docx、html类型的文件进行词频统计，并输出结果。
+ - 统计文件夹中所有文件的词频后，会输出各个文件的统计结果，和一个汇总结果。
+ - 支持增添自定义统计词，每行一个放入Dict.txt中即可。
 是自己练习Python图形界面的产物^^。
 
 ![gif](https://imgpp.com/images/2021/08/23/Video_2021-08-23_170456.gif)
